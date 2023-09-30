@@ -1,4 +1,4 @@
-### Olá! eu sou o Bruno Porto 👋
+### Olá! eu sou o Jhon 👋
 ### DEV PYTHON
 ![Jhon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonLenonSantos&show_icons=true&theme=radical)
 
